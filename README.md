@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @antoniobeas
+- 👀 I’m interested in ... Big Data, Java, Videogames
+- 🌱 I’m currently learning ... Java 11
+- 💞️ I’m looking to collaborate on ...
+- 📫 antonio.beas@wizeline.com
